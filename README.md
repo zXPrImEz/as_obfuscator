@@ -1,2 +1,2 @@
 # leaked code from aspectscripts
-# leaked by xbx & zxprimez
+> leaked by xbx & zxprimez - [DISCORD](discord.gg/qVBbvgsfmt)
