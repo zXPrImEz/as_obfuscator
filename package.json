@@ -1,0 +1,25 @@
+{
+  "name": "as_obfuscator",
+  "version": "1.0.0",
+  "description": "A Obfuscator Bot | Made by @as_obfuscator",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "clean-css": "^5.3.1",
+    "css": "^3.0.0",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "html-minifier": "^4.0.0",
+    "javascript-obfuscator": "^4.0.0",
+    "node-fetch": "^2.6.7",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
